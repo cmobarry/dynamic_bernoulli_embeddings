@@ -1,0 +1,2 @@
+libgcc
+tensorflow==1.6
